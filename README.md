@@ -49,7 +49,7 @@ Aqui estão alguns projetos que representam bem minhas habilidades. *(Atualize c
 
 - 💼 [LinkedIn](https://linkedin.com/in/marcus-vinícius-59b0a0355)
 - 💻 [GitHub](https://github.com/publiusvergilius)
-- 📧 Email: seuemail@exemplo.com *(substituir com seu e-mail real)*
+- 📧 Email: marcosviniciuscomercial0@gmail.com
 
 ---
 
