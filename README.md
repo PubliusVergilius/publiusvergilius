@@ -6,8 +6,8 @@
 
 ## 🚀 Sobre mim
 
-- 👨‍💻 Atualmente trabalho como **Analista de Sistemas na Funcap**.
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** pela Estácio (conclusão prevista: 2025).
+- 👨‍💻 Atualmente trabalho como **Analista de Sistemas**.
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**
 - 📍 Fortaleza - CE
 - 🌱 Aprendendo e aplicando boas práticas como **TDD**, **Clean Code**, **Design Patterns** e **Clean Architecture**.
 - 💡 Interessado em projetos open source, arquitetura de software e desenvolvimento back-end com **Golang**.
