@@ -37,9 +37,9 @@
 
 ## 📌 Projetos em Destaque
 
-Aqui estão alguns projetos que representam bem minhas habilidades. *(Atualize com links reais assim que estiver pronto!)*
+Aqui estão alguns projetos que representam bem minhas habilidades.
 
-- 🧠 **Sprout** — API RESTful feita em Go com autenticação JWT, CRUD completo e testes unitários; inspirado na arquitetura do Spring Boot.  
+- 🧠 **Sprout** — API RESTful feita em Go com autenticação, CRUD completo e testes unitários; inspirado na arquitetura do Spring Boot.  
 
 ---
 
