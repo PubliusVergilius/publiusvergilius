@@ -39,9 +39,7 @@
 
 Aqui estão alguns projetos que representam bem minhas habilidades. *(Atualize com links reais assim que estiver pronto!)*
 
-- 🧠 **API de Produtos** — Uma API RESTful com autenticação JWT, CRUD completo e testes unitários.  
-- 🛠️ **Sistema de Gerenciamento de Tarefas (Fullstack)** — Aplicação com front em React e back-end em Spring Boot.  
-- 🔍 **Classificador de Rotas HTTP** — Projeto com foco em algoritmos de ranqueamento e boas práticas em Golang.  
+- 🧠 **Sprout** — API RESTful feita em Go com autenticação JWT, CRUD completo e testes unitários; inspirado na arquitetura do Spring Boot.  
 
 ---
 
