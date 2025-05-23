@@ -9,8 +9,8 @@
 - 👨‍💻 Atualmente trabalho como **Analista de Sistemas**.
 - 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**
 - 📍 Fortaleza - CE
-- 🌱 Aprendendo e aplicando boas práticas como **TDD**, **Clean Code**, **Design Patterns** e **Clean Architecture**.
-- 💡 Interessado em projetos open source, arquitetura de software e desenvolvimento back-end com **Golang**.
+- 🌱 Aplicando boas práticas como **TDD**, **Clean Code**, **Design Patterns** e **Clean Architecture**.
+- 💡 Interessado em Devops, arquitetura de software e desenvolvimento back-end com **Golang** e **Java**.
 - 🌐 Idiomas: Português (nativo), Inglês (fluente), Francês (básico).
 
 ---
