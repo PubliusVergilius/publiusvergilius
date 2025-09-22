@@ -32,8 +32,8 @@
 
 Aqui estão alguns projetos que representam bem minhas habilidades.
 
-- 🧠 **Sprout** — API RESTful feita em Go com autenticação, CRUD completo e testes unitários; inspirado na arquitetura do Spring Boot.  
-
+- 🧠 **Twapi** — Twapi is a Twitter like API. With Twapi, our primary responsibility is to allow people to post new messages and view messages posted by other people. Build with Sping boot.
+- 🧠 **Twapi frontend** — Frontend for the Twapi API, build with Next js, Shadcn, Tailwind, React-Query e Jotai.
 ---
 
 ## 📫 Vamos conversar?
