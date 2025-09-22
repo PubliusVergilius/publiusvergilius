@@ -6,9 +6,9 @@
 
 ## 🚀 Sobre mim
 
-- 👨‍💻 Atualmente trabalho como **Analista de Sistemas**.
+- 👨‍💻 Atualmente trabalho como **Desenvolvedor Full-stack**.
 - 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**
-- 📍 Fortaleza - CE
+- 📍 Bahia
 - 🌱 Aplicando boas práticas como **TDD**, **Clean Code**, **Design Patterns** e **Clean Architecture**.
 - 💡 Interessado em Devops, arquitetura de software e desenvolvimento back-end com **Golang** e **Java**.
 - 🌐 Idiomas: Português (nativo), Inglês (fluente), Francês (básico).
@@ -38,7 +38,6 @@ Aqui estão alguns projetos que representam bem minhas habilidades.
 
 ## 📫 Vamos conversar?
 
-- 💼 [LinkedIn](https://linkedin.com/in/marcus-vinícius-59b0a0355)
 - 💻 [GitHub](https://github.com/publiusvergilius)
 - 📧 Email: marcosviniciuscomercial0@gmail.com
 
